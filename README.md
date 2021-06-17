@@ -12,6 +12,7 @@ Today Wookii Learned !
 > 날짜를 누르면 해당 내역으로 이동합니다!
 
 ## 2021-06
+- [x] [2021-06-17](./2021-06/210617.md) - ArgoCD-Helm 연동 이후, 일반 Manifest 파일을 Helm Chart로 변환하는 작업 수행, Jenkins Pipeline에서 버전 업데이트를 더 깔끔하게 수행할 수 있도록 YAML 파일 Write, Read 플러그인 도입, Slack-Python 관련 업무 수행
 - [x] [2021-06-16](./2021-06/210616.md) - ArgoCD & Helm(Git) 연동 내용, `values.yaml`만 잘 업데이트하면 되는 것 같아서 괜찮은 거 같음
 - [x] [2021-06-15](./2021-06/210615.md) - ArgoCD Slack Notification 내용, ArgoCD Context 관련 내용, Kube-prometheus 사용 내용
 - [x] [2021-06-14](./2021-06/210614.md) - 스프링부트 도커 빌드 기능을 알아보았음
