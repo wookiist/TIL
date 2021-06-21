@@ -12,6 +12,7 @@ Today Wookii Learned !
 > 날짜를 누르면 해당 내역으로 이동합니다!
 
 ## 2021-06
+- [x] [2021-06-21](./2021-06/210621.md) - Harbor 재배포 with chartmuseum, chartmuseum을 deprecate 하려는 움직임이 있음. argocd에 연동 성공, 그러나 application 배포 시에 x509 에러 발생. Helm Repo와 `values.yaml`의 분리가 필요!
 - [x] [2021-06-20](./2021-06/210620.md) - Github Verified 태그 달기. 포스팅 2개, ~~젤다무쌍 DLC 완료...~~ 다음주도 열심히 보내자!
 - [x] [2021-06-19](./2021-06/210619.md) - 마자씀니다에 두 번째 코드 기여했다. solvedac 업데이트 대응이었다. 
 - [x] [2021-06-18](./2021-06/210618.md) - Helm Chart 업데이트 작업을 수행했다. Grafana Alert 업데이트도 수행했다(CPU), 업무 관련해서는 Rerouting 작업을 연결해주는 기능을 개발했다. 아직 배포하지는 않았다.
