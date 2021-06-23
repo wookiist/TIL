@@ -12,6 +12,7 @@ Today Wookii Learned !
 > 날짜를 누르면 해당 내역으로 이동합니다!
 
 ## 2021-06
+- [x] [2021-06-23](./2021-06/210623.md) - 사내 프로젝트 모듈 연동. 유닛테스트의 중요성. Springboot Docker로 배포한 Container Image는 Kubernetes ClusterRole을 꼭 필요로 하는 듯 함. 왜 그런건지는 모르겠지만, Helm 차트에도 이 부분을 생성했음.
 - [x] [2021-06-22](./2021-06/210622.md) - 사내 프로젝트 관련해서 업무 처리가 많았다. 내일도 이어서 해야 하는데 두렵구만. OCI, CRI 개념에 대해 다시 정리하는 시간을 가졌다. 8시부터는 쿠버네티스 스터디도 진행하니까 오늘은 참석 꼭 해야지.
 - [x] [2021-06-21](./2021-06/210621.md) - Harbor 재배포 with chartmuseum, chartmuseum을 deprecate 하려는 움직임이 있음. argocd에 연동 성공, 그러나 application 배포 시에 x509 에러 발생. Helm Repo와 `values.yaml`의 분리가 필요!
 - [x] [2021-06-20](./2021-06/210620.md) - Github Verified 태그 달기. 포스팅 2개, ~~젤다무쌍 DLC 완료...~~ 다음주도 열심히 보내자!
